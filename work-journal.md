@@ -1,3 +1,100 @@
+
+# 2018-03-07
+* taught at Parsons
+* wrote up class- Javascript: Arrays and Loops
+* bug hunted in Voila
+* worked from New School teacher lounge
+* research unicode, emoji, zero width joiner.
+
+# 2018-03-06
+* finished voronoi with new data structures
+* applied to New York Times #2
+* SFPC meet the students
+
+# 2018-03-05
+* birthday in Central Park
+* new voronoi data structures in origami code
+* evening with friends
+
+# 2018-03-02
+* finished class syllabus for SFPC Material Logic
+* folded Sipho Mabona's elephant
+
+# 2018-03-01
+* received Robert Lang's new book
+* line intersection and geometry in origami code
+* incorporated Oliver Byrne colors
+
+# 2018-02-28
+* taught at Parsons
+* wrote up class- Javascript pt. 1
+* worked from BRC midtown
+* SFPC Salon in the evening
+
+# 2018-02-27
+* origami Plotter code
+* folded origami spirals
+
+# 2018-02-26
+* worked on syllabus for SFPC Material Logic
+* went to Strand
+* took care of sad email inbox
+
+# 2018-02-23
+* folded Shuki Kato's camel
+* origami code library
+
+# 2018-02-22
+* Work on SFPC presentation
+* present to SFPC students: meet the teachers
+* arcade with Emma
+
+# 2018-02-21
+* teach at Parsons
+* met with Manaukia
+
+# 2018-02-20
+* follow up with METRO proposal
+* origami code
+* new repository: writings on origami code
+
+# 2018-02-19
+* finished Roman Diaz' elephant head
+* submitted Esty code challenge
+
+# 2018-02-18
+* Esty code challenge all day
+* co-work with Stuart and Nicole
+* work on Roman Diaz' elephant head
+* help Zach with AR iOS bugs
+
+# 2018-02-17
+* Esty code challenge all day
+* Planet Earth drinking game
+
+# 2018-02-16
+* doctors appt. downtown
+* meeting with Kelli and Pam, class planning
+* Black Panther with Vivian
+
+# 2018-02-15
+* final day at SFPC Coding Bootcamp
+
+# 2018-02-14
+* teaching at Parsons
+* day 3 at SFPC Coding Bootcamp
+* co-work at Outpost with Joey
+* first work on Etsy code challenge
+
+# 2018-02-13
+* day 2 at SFPC Coding Bootcamp
+* class budget meeting with Taeyoon
+* origami class
+
+# 2018-02-12
+* day 1 at SFPC Coding Bootcamp
+* worked sound and space for Machine Learning Workshop
+
 # 2018-02-09
 * Voila build #8
 * prep for interview
@@ -99,7 +196,7 @@
 * SFPC Retreat all day
 
 # 2018-01-11
-* day off!
+* day off
 
 # 2018-01-10
 * Meeting at Anchor
