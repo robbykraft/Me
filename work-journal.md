@@ -1,3 +1,12 @@
+# 2018-03-09
+* new build of Voila
+* origami docs
+* wrote most of the origami Voronoi paper
+
+# 2018-03-08
+* origami code: Voronoi joints for obtuse triangles
+* met with Emma
+* S-Town at BAM
 
 # 2018-03-07
 * taught at Parsons
