@@ -38,9 +38,34 @@ pre, code{
 }
 </style>
 
-<h1 class="welcome">Hello 👋</h1>
+<h1 class="welcome">iOS Project Highlights</h1>
 
-<p>Being an iOS developer these past 6 years has been a front row seat to incredible transformations in human-computer interaction and I see so much of the runway ahead of us still. <b>Below are a few of my projects.</b> I aim to continue building apps that are inclusive and conscious of social, economic, and bandwidth limitations.</p>
+<div class="ios-projects-left" id="domekit">
+	<div class="device-container">
+		<div class="device-mockup iphone6 portrait white">
+			<div class="device">
+				<div class="screen"><img src="/images/domekit-screen.png" class="img-responsive" alt=""></div>
+				<div class="button"></div>
+			</div>
+		</div>
+	</div>
+	<div class="markdown-body">
+		<h1>Domekit</h1>
+		<p>Domekit is a parametric design tool for making geodesic structures of human-scale proportion. The user is able to customize the dome frequency, sphere-to-dome slice location, and the size of the dome based on the dimensions of the floor, height, or construction materials. The app generates a construction diagram and parts list.</p>
+		<h2>Tech Specs</h2>
+		<pre><code>* geodesic geometry backend <b><a href="//github.com/robbykraft/Geodesic/">CODE ON GITHUB</a></b>
+* custom opengl rendering and animations
+* 8-digit floating point architectural measurement accuracy</code></pre>
+		<h2>Project</h2>
+		<p>Following a successful <a href="https://www.kickstarter.com/projects/effalo/domekitcc-domes-for-all">Kickstarter</a> by Michael Felix to distribute easily-assemblable domes to the public, I joined the project to build a geodesic dome calculator with a successful first release in 2013. In 2015, I rebuilt the app from the ground up with a new geodesic geometry engine capable of a higher level of precision.</p>
+		<div id="ios-badge-container">
+			<a href="https://itunes.apple.com/us/app/domekit/id617768136?mt=8">
+			<img class="ios-badge" src="/images/ios-app-store.svg">
+			</a>
+		</div>
+	</div>
+</div>
+
 
 <div class="ios-projects-left" id="pollen">
 	<div class="device-container">
@@ -76,33 +101,6 @@ pre, code{
 		</div>
 	</div>
 </div>
-
-<div class="ios-projects-left" id="domekit">
-	<div class="device-container">
-		<div class="device-mockup iphone6 portrait white">
-			<div class="device">
-				<div class="screen"><img src="/images/domekit-screen.png" class="img-responsive" alt=""></div>
-				<div class="button"></div>
-			</div>
-		</div>
-	</div>
-	<div class="markdown-body">
-		<h1>Domekit</h1>
-		<p>Domekit is a parametric design tool for making geodesic structures of human-scale proportion. The user is able to customize the dome frequency, sphere-to-dome slice location, and the size of the dome based on the dimensions of the floor, height, or construction materials. The app generates a construction diagram and parts list.</p>
-		<h2>Tech Specs</h2>
-		<pre><code>* geodesic geometry backend <b><a href="//github.com/robbykraft/Geodesic/">CODE ON GITHUB</a></b>
-* custom opengl rendering and animations
-* 8-digit floating point architectural measurement accuracy</code></pre>
-		<h2>Project</h2>
-		<p>Following a successful <a href="https://www.kickstarter.com/projects/effalo/domekitcc-domes-for-all">Kickstarter</a> by Michael Felix to distribute easily-assemblable domes to the public, I joined the project to build a geodesic dome calculator with a successful first release in 2013. In 2015, I rebuilt the app from the ground up with a new geodesic geometry engine capable of a higher level of precision.</p>
-		<div id="ios-badge-container">
-			<a href="https://itunes.apple.com/us/app/domekit/id617768136?mt=8">
-			<img class="ios-badge" src="/images/ios-app-store.svg">
-			</a>
-		</div>
-	</div>
-</div>
-
 
 
 <div class="ios-projects-left" id="characterdaily">

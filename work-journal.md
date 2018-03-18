@@ -1,7 +1,29 @@
+# 2018-03-15
+
+- finished and submitted Voronoi paper
+
+# 2018-03-14
+
+- taught at Parsons
+- visited SFPC, Kelli's class
+- overlapping molecules for Voronoi paper
+
+# 2018-03-13
+
+- molecules for Voronoi paper
+- co-work with Dennis
+
+# 2018-03-12
+
+* worked on Voronoi paper
+* began making images for the paper, finished outline
+* met with Lukas
+
 # 2018-03-09
+
 * new build of Voila
 * origami docs
-* wrote most of the origami Voronoi paper
+* wrote a lot of the text of the origami Voronoi paper
 
 # 2018-03-08
 * origami code: Voronoi joints for obtuse triangles

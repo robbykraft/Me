@@ -24,7 +24,6 @@ a:nth-child(2n+2){ color:darkgray; }
 </style>
 
 <a href="//instagram.com/gridpaper/">origami instagram</a>
-<a href="/origamivoronoi/">origami voronoi</a>
 <a href="//origami.pw/">origami creative coding library</a>
 <a href="https://www.etsy.com/listing/564560070/2018-sun-and-moon-calendar?ref=shop_home_active_4">calendars</a>
 <a href="/jupiter/">apparent position of jupiter's moons</a>
